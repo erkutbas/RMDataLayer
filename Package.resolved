@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/erkutbas/RMDomainLayer.git",
       "state" : {
-        "revision" : "f391eb5928a5391b1015ff7670a440673e60e9af",
-        "version" : "1.1.0"
+        "revision" : "1e037a530f330ff8ab8ca609b0ed0a61f9ad011a",
+        "version" : "1.2.0"
       }
     },
     {
